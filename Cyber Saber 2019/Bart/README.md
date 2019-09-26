@@ -5,7 +5,7 @@
  _/            /
 (.-,--.       /
 /o/  o \     /    Bart writeup
-\_\    /   _/     URL: art.echocity-f.com
+\_\    /   _/     URL: bart.echocity-f.com
 (__`--'    _)     Author: HitmanAlharbi
  /         |      Team: Blackfoxs
 (_____,'    \ 
